@@ -130,7 +130,7 @@ const FeedStack = ({navigation}) => (
   </Stack.Navigator>
 );
 
-// messaging stack 
+// messaging stack
 const MessagesStack = ({navigation}) => (
   <Stack.Navigator>
     <Stack.Screen
@@ -162,7 +162,7 @@ const MessagesStack = ({navigation}) => (
   </Stack.Navigator>
 );
 
-// profile stack 
+// profile stack
 const ProfileStack = ({navigation}) => (
   <Stack.Navigator>
     <Stack.Screen
@@ -228,7 +228,7 @@ const AppStack = () => {
       <Tab.Screen
         name="Messages"
         component={MessagesStack}
-        options={({ route }) => ({
+        options={({route}) => ({
           tabBarVisible: getTabBarVisibility(route),
           tabBarIcon: ({color, size}) => (
             <Ionicons
