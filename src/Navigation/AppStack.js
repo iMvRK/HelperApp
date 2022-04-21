@@ -226,16 +226,6 @@ const AppStack = () => {
         })}
       />
       
-{/*       <Tab.Screen
-        name="Notification"
-        component={Notification}
-        options={{
-          tabBarIcon: ({color, size}) => (
-            <Ionicons name="notifications-outline" color={color} size={size} />
-          ),
-        }}
-        
-      /> */}
 
       <Tab.Screen
         name="Messages"
