@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509493357583",
+    "project_id": "test-dfbea",
+    "storage_bucket": "test-dfbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509493357583:android:f6f90d8971974a20e0477a",
+        "android_client_info": {
+          "package_name": "com.HelperApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509493357583-dk6lajt3mfqkjvtfcuggla26n9qlkvkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HelperApp",
+            "certificate_hash": "358274c12edc555dc5c7a8db44d1d558dd4b91f2"
+          }
+        },
+        {
+          "client_id": "509493357583-c2o3fna975gt7njcqnblanscoolam52h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9D2QGAmMfs7TVUdeKvc2WWFMagCHCzeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509493357583-c2o3fna975gt7njcqnblanscoolam52h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
